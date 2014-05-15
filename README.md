@@ -1,4 +1,20 @@
-Simple-Rockets-Mods
-===================
+SimpleKSP Mod
+=============
+This mod edits the smolarsystem.xml file. 
 
-Mods will be added as branches, read all of the README's
+Replaces the Smolar System with the Kerbin system. 
+
+Adds
+
+Moho
+
+Eve
+
+Kerbin
+
+Duna
+
+Jool
+
+Eeloo
+ 
