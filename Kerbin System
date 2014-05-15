@@ -1,0 +1,7 @@
+<SolarSystem 
+  xmlns="http://jundroo.com/simplerockets/solarsystem.xsd"
+  name="Kerbol System" description="One of your interstellar probes has found a new solar system. Have fun exploring.">
+  <Planet name="Kerbol" gravity="500.0" radius="26160000" mapColor="255,220,54"launchEnabled="false" description="The Sun is the most well known object in the daytime sky. Scientists have noted a particular burning sensation and potential loss of vision if it is stared at for long periods of time.">
+    <Terrain maxHeight="0" color="250,250,100 />
+  </Planet>
+</SolarSystem>
